@@ -267,7 +267,13 @@ let allstars = [
       "name":"syn",
       "active":true,
       "location":"JP"
-  }
+  },
+  {
+    "id":5,
+    "name":"fiv",
+    "active":true,
+    "location":"JP"
+}
 ]
 
 
