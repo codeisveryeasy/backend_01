@@ -261,7 +261,13 @@ let allstars = [
         "name":"che",
         "active":false,
         "location":"SG"
-    }
+    },
+    {
+      "id":4,
+      "name":"syn",
+      "active":true,
+      "location":"JP"
+  }
 ]
 
 
